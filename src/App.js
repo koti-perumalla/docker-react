@@ -19,7 +19,7 @@ function App() {
         </a>
       </header>
       <p>
-        Hi there, this is koti. Testing 31-oct-2022 12:32 pm ( changes reflecting at runtime)
+        Hi there, this is koti. Testing 31-oct-2022 20:32 pm ( changes reflecting at runtime)
       </p>
     </div>
   );
