@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Edit <code>src/App.js</code> and save to reload. Test by Koti
         </p>
         <a
           className="App-link"
@@ -18,6 +18,9 @@ function App() {
           Learn React
         </a>
       </header>
+      <p>
+        Hi there, this is koti. Testing 31-oct-2022 12:32 pm ( changes reflecting at runtime)
+      </p>
     </div>
   );
 }
